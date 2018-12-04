@@ -1,5 +1,5 @@
 # style-transfer-pytorch
-A Style Transfer agent that applies La Joconde's style to any picture.
+A Style Transfer agent that applies La Joconde's style to any picture [PROTOTYPE]
 <img src="images/index.png"/>
 <br/>
 This project is based on the Udacity's implementation.
